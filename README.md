@@ -1,8 +1,9 @@
 # Workout-Tube
 Workout Tube merupakan sebuah situs untuk memudahkan kalian dalam mencari suatu jenis latihan yang sesuai dengan kebutuhan!
 
-Project Version : v9
-Upload Date     : 12 April 2022
+This Project Information
+- Project Version : v9
+- Upload Date     : 12 April 2022
 
 Project Member
 - Mikael Rizki (Leader)
@@ -10,26 +11,26 @@ Project Member
 - Yusak Satria
 
 Credit
-Concept & Styling by Mikael Rizki
-Animated Website by Mikael Rizki
-Image Source by Mikael Rizki
-Source YouTube Video by Narendra Poetra
-Analyst Report by Yusak Satria
+- Concept & Styling by Mikael Rizki
+- Animated Website by Mikael Rizki
+- Image Source by Mikael Rizki
+- Source YouTube Video by Narendra Poetra
+- Analyst Report by Yusak Satria
 
 Source
-Image    : Canva Professional
-Icons    : Google Maaterials Icons https://fonts.google.com/icons
-Font     : Open Sans by Google https://fonts.google.com/specimen/Open+Sans
-Editing  : Adobe Photoshop & Illustrator 
+- Image    : Canva Professional
+- Icons    : Google Maaterials Icons https://fonts.google.com/icons
+- Font     : Open Sans by Google https://fonts.google.com/specimen/Open+Sans
+- Editing  : Adobe Photoshop & Illustrator 
 
-Deskripsi Cardio    : https://www.alodokter.com/olahraga-kardio-ternyata-bisa-membuat-kita-merasa-bahagia
-Deskripsi Yoga      : https://id.wikipedia.org/wiki/Yoga
-Deskripsi HIIT      : https://www.axe.com/id/inspirasi/culture/gerakan-hiit-cardio-di-rumah.html
+- Deskripsi Cardio    : https://www.alodokter.com/olahraga-kardio-ternyata-bisa-membuat-kita-merasa-bahagia
+- Deskripsi Yoga      : https://id.wikipedia.org/wiki/Yoga
+- Deskripsi HIIT      : https://www.axe.com/id/inspirasi/culture/gerakan-hiit-cardio-di-rumah.html
 
 Support Website
-GitHub        : https://www.w3schools.com/css/
-Stackoverflow : https://stackoverflow.com/
-GeeksForGeeks : https://www.geeksforgeeks.org/
+- GitHub        : https://www.w3schools.com/css/
+- Stackoverflow : https://stackoverflow.com/
+- GeeksForGeeks : https://www.geeksforgeeks.org/
 
 Version History
 v1
