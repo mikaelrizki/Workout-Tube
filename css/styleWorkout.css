@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center top;
+    scroll-behavior: smooth !important;
+}
+
+nav{transition: ease 1s; width: 1150px; margin: auto; display: flex; justify-content: flex-end; align-items: center; margin-top: 70px; }
+
+.searchBar{margin-left: 10px;}
+.navBar a{margin: 0px 5px; padding: 10px 20px; text-decoration: none; color: white; font-family: "Open Sans", sans-serif; font-weight: 600; border-radius: 50px;}
+.navBar a.active{background-color: white; color: #848484; text-decoration: none;}
+.navBar a:hover{transition: 0.4s; opacity: 0.9; background-color: #848484; color: white;}
+.searchBar{display: flex; align-items: stretch; padding: 5px 10px; background-color: white; border-radius: 50px;}
+.iconSearch{color: #848484; padding-top: 2px;}
+::placeholder{color: #848484;}
+.searchBar input{font-family: "Open Sans", sans-serif; font-weight: 400; border: 0; font-size: 12pt; color: #848484; padding-left: 10px;}
+
+/* Untuk menghilangkan orange box pada text input */
+textarea:focus, input:focus{outline: none;}
+
+header img.title{
+    margin: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1150px;
+    -webkit-filter: drop-shadow(5px 5px 5px #4b4b4b);
+    filter: drop-shadow(5px 5px 5px #4b4b4b);
+}
+
+header p{
+    opacity: 0.9;
+    margin-top: 50px;
+    font-size: 16pt;
+    line-height: 1.8;
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 400;
+    color: white;
+    width: 1150px;
+    text-align: center;
+    margin: auto;
+    -webkit-filter: drop-shadow(5px 5px 5px #4b4b4b);
+    filter: drop-shadow(5px 5px 5px #4b4b4b);
+}
+
+header{margin-bottom: 300px;}
+
+.video{
+    display: flex;
+    width: 1400px;
+    background-color: white;
+    height: 399px;
+    margin: auto;
+    margin-top: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.left{width: 709px;}
+.video .right{display: flex; align-items: center;}
+.video .right .side h2{margin: 0px 30px 20px 30px; font-family: "Open Sans", sans-serif; font-weight: 600;}
+span.views{font-family: "Open Sans", sans-serif; font-weight: 600;}
+.level{display: flex; align-items: center;}
+#beginner{display: flex; align-items: center; width: 100px; margin: 0px 20px 0px 30px; padding: 8px 14px; color: white; background-color: darkgreen; border-radius: 20px; font-family: "Open Sans", sans-serif; font-weight: 600;}
+#beginner span{padding-right: 5px;}
+#intermediate{display: flex; align-items: center; width: 135px; margin: 0px 20px 0px 30px; padding: 8px 14px; color: white; background-color: darkorange; border-radius: 20px; font-family: "Open Sans", sans-serif; font-weight: 600;}
+#intermediate span{padding-right: 5px;}
+#advanced{display: flex; align-items: center; width: 110px; margin: 0px 20px 0px 30px; padding: 8px 14px; color: white; background-color: darkred; border-radius: 20px; font-family: "Open Sans", sans-serif; font-weight: 600;}
+#advanced span{padding-right: 5px;}
+
+.informasi{display: flex; margin-left: 30px; margin-top: 20px; line-height: 32px; font-size: 14pt; font-family: "Open Sans", sans-serif; font-weight: 400;}
+.informasi span:nth-child(odd){margin: 0; font-weight: 600; background-color: #4b4b4b; color: white;  border-radius: 20px 0px 0px 20px; padding: 5px 12px 5px 15px;}
+.informasi span:nth-child(even){margin: 0; font-weight: 400; background-color: #848484; color: white; border-radius: 0px 20px 20px 0px; padding: 5px 15px 5px 12px; margin-right: 15px;}
+
+.tombol{display: flex; justify-content: flex-end; width: 1400px; margin: auto; margin-top: 50px; font-family: "Open Sans", sans-serif; font-weight: 600;}
+.tombol a{text-decoration: none;}
+.back{width: 25px; display: flex; align-items: center; padding: 15px; background-color: #4b4b4b; color: white; border-radius: 30px;}
+.back span{padding-right: 15px;}
+.back:hover{width: 90px; transition: ease 1s !important;}
+
+.footerHitam{padding: 40px 0px;margin-top: 70px; width: 100%; background-color: rgb(26, 26, 26);}
+.footerHitam .container{margin: auto; width: 100%; display: flex; justify-content: space-between; margin: 0;}
+#kiri{width: 400px; padding-left: 140px;}
+#kiri img{width: 300px;}
+#kiri p{margin: 0px; margin-top: 15px; color: white; font-family: "Open Sans", sans-serif; font-weight: 400; font-size: 14pt;}
+
+#kanan{width: 600px; padding-top: 30px; padding-right: 90px;}
+#kanan .findMe{float: left;}
+#kanan .findMe h2{padding-top: 40px; font-family: "Open Sans", sans-serif; font-weight: 800; color: white; margin: 0px; margin-bottom: 10px;}
+#kanan .findMe .medsos{display: grid; grid-template-columns: 150px 175px; grid-row-gap: 10px;}
+.medsos div{display: flex; align-items: center;}
+.medsos div img{width: 30px}
+.medsos div a{margin-left: 10px; font-family: "Open Sans", sans-serif; font-weight: 600; text-decoration: none; color: white;}
+#kanan .garis{float: left;width: 5px; height: 165px; background-color: white; border-radius: 50px; margin-right: 40px;}
+#kanan .getOn h2{font-family: "Open Sans", sans-serif; font-weight: 800; color: white; margin: 0px; margin-bottom: 5px;}
+#kanan .getOn div img{width: 150px;padding-top: 10px;}
+#kanan .getOn div img:hover{opacity: 0.8; transition: 0.6s; cursor: pointer;}
+
+.footerPutih{color: #848484; text-align: center; font-family: "Open Sans", sans-serif; font-weight: 400; padding: 10px;}
+.footerPutih a{color: #848484;}

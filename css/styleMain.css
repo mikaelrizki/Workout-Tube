@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    margin: 0;
+    background-image: url(../src/home/bgHome.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    scroll-behavior: smooth !important;
+}
+
+nav{width: 1150px; margin: auto; display: flex; justify-content: flex-end; align-items: center; margin-top: 70px; }
+
+.searchBar{margin-left: 10px;}
+.navBar a{margin: 0px 5px; padding: 10px 20px; text-decoration: none; color: white; font-family: "Open Sans", sans-serif; font-weight: 600; border-radius: 50px;}
+.navBar a.active{background-color: white; color: #848484; text-decoration: none;}
+.navBar a:hover{transition: 0.4s; opacity: 0.9; background-color: #848484; color: white;}
+.searchBar{display: flex; align-items: stretch; padding: 5px 10px; background-color: white; border-radius: 50px;}
+.iconSearch{color: #848484; padding-top: 2px;}
+::placeholder{color: #848484;}
+.searchBar input{font-family: "Open Sans", sans-serif; font-weight: 400; border: 0; font-size: 12pt; color: #848484; padding-left: 10px;}
+
+/* Untuk menghilangkan orange box pada text input */
+textarea:focus, input:focus{outline: none;}
+
+header img.title{
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1150px;
+    -webkit-filter: drop-shadow(5px 5px 5px #4b4b4b);
+    filter: drop-shadow(5px 5px 5px #4b4b4b);
+}
+
+section .container{
+    width: 1150px;                                                                        /* Lebar konten dari layar */
+    margin: auto;                                                                         /* Buat konten di tengah */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);     /* Shadow dari konten */
+    margin-top: 60px;                                                                     /* Jarak antar box konten */
+}
+
+div.teks{
+    background-color: white;      /* Warna bg konten sisi kanan */
+    height: 479px;                  /* Height konten (Buat nyeimbangin gambarnya) */
+    padding-left: 670px;            /* Width konten (Buat nyeimbangin gambarnya) */
+    margin-left: 30px;              /* Buat ngasih spasi antara gambar sama teks */
+}
+
+img.konten{
+    width: 650px;                   /* Width gambar konten */
+    height: 479px;                  /* Height gambar konten */
+    float: left;                    /* Buat positioning gambar di samping div teks */
+}
+
+.teks h2{
+    font-family: "Open Sans", sans-serif;
+    font-size: 24pt;
+    margin-top: 30px;
+    margin-right: 55px;
+}
+
+.teks p{
+    font-size: 14pt;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    margin-right: 45px;
+}
+
+.teks h3{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    margin-right: 30px;
+    margin-right: 55px;
+    margin-bottom: 30px;
+}
+
+.workNow{
+    text-decoration: none;
+    color: white;
+    background-color: #848484;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px 20px;
+    width: 115px;
+}
+
+.workNow:hover{
+    transition: 0.4s;
+    color: white;
+    background-color: #4b4b4b;
+}
+
+.footerHitam{padding: 40px 0px;margin-top: 70px; width: 100%; background-color: rgb(26, 26, 26);}
+.footerHitam .container{margin: auto; width: 100%; display: flex; justify-content: space-between; margin: 0;}
+#kiri{width: 400px; padding-left: 140px;}
+#kiri img{width: 300px;}
+#kiri p{margin: 0px; margin-top: 15px; color: white; font-family: "Open Sans", sans-serif; font-weight: 400; font-size: 14pt;}
+
+#kanan{width: 600px; padding-top: 30px; padding-right: 90px;}
+#kanan .findMe{float: left;}
+#kanan .findMe h2{padding-top: 40px; font-family: "Open Sans", sans-serif; font-weight: 800; color: white; margin: 0px; margin-bottom: 10px;}
+#kanan .findMe .medsos{display: grid; grid-template-columns: 150px 175px; grid-row-gap: 10px;}
+.medsos div{display: flex; align-items: center;}
+.medsos div img{width: 30px}
+.medsos div a{margin-left: 10px; font-family: "Open Sans", sans-serif; font-weight: 600; text-decoration: none; color: white;}
+#kanan .garis{float: left;width: 5px; height: 165px; background-color: white; border-radius: 50px; margin-right: 40px;}
+#kanan .getOn h2{font-family: "Open Sans", sans-serif; font-weight: 800; color: white; margin: 0px; margin-bottom: 5px;}
+#kanan .getOn div img{width: 150px;padding-top: 10px;}
+#kanan .getOn div img:hover{opacity: 0.8; transition: 0.6s; cursor: pointer;}
+
+.footerPutih{color: #848484; text-align: center; font-family: "Open Sans", sans-serif; font-weight: 400; padding: 10px;}
+.footerPutih a{color: #848484;}
