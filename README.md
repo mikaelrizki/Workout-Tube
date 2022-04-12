@@ -4,6 +4,7 @@ Workout Tube merupakan sebuah situs untuk memudahkan kalian dalam mencari suatu 
 ### This Project Information
 - Project Version : v9
 - Upload Date     : 12 April 2022
+- Project Link    : https://mikaelrizki.github.io/Workout-Tube/
 
 ### Project Member
 - Mikael Rizki (Leader)
