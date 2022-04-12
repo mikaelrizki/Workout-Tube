@@ -1,39 +1,39 @@
 # Workout Tube
-Workout Tube merupakan sebuah situs untuk memudahkan kalian dalam mencari suatu jenis latihan yang sesuai dengan kebutuhan!
+## Workout Tube merupakan sebuah situs untuk memudahkan kalian dalam mencari suatu jenis latihan yang sesuai dengan kebutuhan!
 
-This Project Information
+### This Project Information
 - Project Version : v9
 - Upload Date     : 12 April 2022
 
-Project Member
+### Project Member
 - Mikael Rizki (Leader)
 - Narendra Poetra
 - Yusak Satria
 
-Credit
+### Credit
 - Concept & Styling by Mikael Rizki
 - Animated Website by Mikael Rizki
 - Image Source by Mikael Rizki
 - Source YouTube Video by Narendra Poetra
 - Analyst Report by Yusak Satria
 
-Source
+### Source
 - Image    : Canva Professional
+- Editing  : Adobe Photoshop & Illustrator 
 - Icons    : Google Maaterials Icons https://fonts.google.com/icons
 - Font     : Open Sans by Google https://fonts.google.com/specimen/Open+Sans
-- Editing  : Adobe Photoshop & Illustrator 
 
 - Deskripsi Cardio    : https://www.alodokter.com/olahraga-kardio-ternyata-bisa-membuat-kita-merasa-bahagia
 - Deskripsi Yoga      : https://id.wikipedia.org/wiki/Yoga
 - Deskripsi HIIT      : https://www.axe.com/id/inspirasi/culture/gerakan-hiit-cardio-di-rumah.html
 
-Support Website
+### Support Website
 - GitHub        : https://www.w3schools.com/css/
 - Stackoverflow : https://stackoverflow.com/
 - GeeksForGeeks : https://www.geeksforgeeks.org/
 
-Version History
-v1
+### Version History
+#### v1
 - Halaman utama berhasil dibuat.
 - Judul situs adalah "WorkoutFlix".
 - Konsep konten pada Home Page berhasil dibuat.
@@ -42,32 +42,32 @@ v1
 - Menggunakan embeded font.
 - Konsep desain Home Page berhasil diimplementasikan.
 
-v2
+#### v2
 - Penyempurnaan konten pada Home Page.
 - Penyempurnaan desain Home Page.
 
-v3
+#### v3
 - Sebagai versi untuk Prototype Search Bar.
 - Penambahan icon search pada Search Bar.
 - Posisi icon search dengan search input masih belum sesuai.
 - Tinggi background-color Search Bar belum sama dengan list Navigation Bar.
 
-v4
+#### v4
 - Konsep desain Navigation Bar berhasil diimplementasikan.
 - Posisi Navigation Bar belum sesuai.
 - Penggantian nama situs menjadi "Workout Tube".
 
-v5 NavBar Selesai dan Rapi
+#### v5
 - Navigation Bar berhasil dibuat.
 - Menggunakan Google Materials Icon sebagai Search Icon.
 
-v6 
+#### v6 
 - Sebagai versi untuk Prototype Footer.
 - Footer masih berupa konsep dan hanya berupa gambar.
 - Penggunaan Footer double layer berhasil diimplementasikan.
 - Perubahan nama dokumen menjadi "Workout Tube".
 
-v7
+#### v7
 - Footer berhasil dibuat.
 - Logo dan Deskripsi situs berhasil dibuat.
 - Bagian "Find Us!?" dapat berjalan.
@@ -75,13 +75,13 @@ v7
 - Font sudah import dari Google Fonts.
 - Penggunaan Favicon.
 
-v7.1
+#### v7.1
 - Backup dengan menggunakan embeded font.
 
-v7.2
+#### v7.2
 - Penyempurnaan Footer.
 
-v8 (Major Update)
+#### v8 (Major Update)
 - Halaman Utama telah disempurnakan.
 - Halaman Contact berhasil diimplementasikan.
 - Halaman About berhasil diimplementasikan.
@@ -97,7 +97,7 @@ v8 (Major Update)
 - Penggunaan AOS (Animated On Scroll) berhasil diimplementasikan.
 - Penyempurnaan tampilan setiap halamannya.
 
-v9
+#### v9
 - Perubahan lokasi "main.html".
 - Penggunaan "index.html" di luar sub folder.
 - Situs statis selesai dibuat.
