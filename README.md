@@ -23,6 +23,17 @@ Workout Tube merupakan sebuah situs untuk memudahkan kalian dalam mencari suatu 
 - Source YouTube Video by Narendra Poetra
 - Analyst Report by Yusak Satria
 
+### Checkout Project
+
+```bash
+# Checkout project
+$ git checkout git@github.com:mikaelrizki/Workout-Tube.git
+
+# Update submodule
+$ git submodule init
+$ git submodule update --remote
+```
+
 ### Source
 - Image    : Canva Professional
 - Editing  : Adobe Photoshop & Illustrator 
