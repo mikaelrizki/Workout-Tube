@@ -1,8 +1,7 @@
 # Workout Tube
-![Version](https://img.shields.io/github/v/release/mikaelrizki/Workout-Tube?label=version&style=for-the-badge)
 ![Build Status](https://img.shields.io/github/workflow/status/mikaelrizki/Workout-Tube/pages%20build%20and%20deployment?style=for-the-badge)
-![Repository Size](https://img.shields.io/github/repo-size/mikaelrizki/Workout-Tube?color=yellow&style=for-the-badge)
-![Language Count](https://img.shields.io/github/languages/count/mikaelrizki/Workout-Tube?color=orange&style=for-the-badge)
+![Repository Size](https://img.shields.io/github/repo-size/mikaelrizki/Workout-Tube?color=orange&style=for-the-badge)
+![Language Count](https://img.shields.io/github/languages/count/mikaelrizki/Workout-Tube?color=red&style=for-the-badge)
 ![HTML](https://img.shields.io/github/languages/top/mikaelrizki/Workout-Tube?color=red&style=for-the-badge)
 
 Workout Tube merupakan sebuah situs untuk memudahkan kalian dalam mencari suatu jenis latihan yang sesuai dengan kebutuhan!
